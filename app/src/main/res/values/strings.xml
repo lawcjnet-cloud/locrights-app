@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Loc Rights</string>
+    <string name="brand_full_title">Law Order and Civil Rights</string>
+    <string name="brand_tagline">Legal Awareness, Judiciary &amp; Competitive Exam Insights</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_categories">Categories</string>
+    <string name="nav_bookmarks">Bookmarks</string>
+    <string name="nav_about">About</string>
+    <string name="menu_latest_articles">Latest Articles</string>
+    <string name="menu_saved_articles">Saved Articles</string>
+    <string name="menu_about_loc_rights">About Loc Rights</string>
+    <string name="menu_privacy_policy">Privacy Policy</string>
+    <string name="menu_contact_us">Contact Us</string>
+    <string name="menu_share_app">Share App</string>
+    <string name="menu_rate_app">Rate App</string>
+    <string name="search_hint">Search judgments, articles, or topics…</string>
+    <string name="offline_banner">Offline mode — showing cached articles</string>
+    <string name="empty_bookmarks_title">No Saved Articles Yet</string>
+    <string name="empty_bookmarks_body">Tap the bookmark icon on any article to keep it available offline.</string>
+    <string name="empty_search_title">No Matching Articles</string>
+    <string name="empty_search_body">Try another keyword in English or Hindi, or browse categories.</string>
+    <string name="feed_error_title">Unable to Reach Blog Feed</string>
+    <string name="retry">Retry</string>
+    <string name="open_website">Open Website</string>
+    <string name="related_articles">Related Articles</string>
+    <string name="featured_story">Featured</string>
+    <string name="latest_articles">Latest Articles</string>
+    <string name="load_more">Load More Articles</string>
+</resources>

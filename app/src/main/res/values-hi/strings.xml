@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">लॉक राइट्स</string>
+    <string name="brand_full_title">लॉ ऑर्डर एंड सिविल राइट्स</string>
+    <string name="brand_tagline">विधिक जागरूकता, न्यायपालिका एवं प्रतियोगी परीक्षा मार्गदर्शन</string>
+    <string name="nav_home">होम</string>
+    <string name="nav_categories">श्रेणियाँ</string>
+    <string name="nav_bookmarks">सहेजे गए</string>
+    <string name="nav_about">परिचय</string>
+    <string name="menu_latest_articles">नवीनतम लेख</string>
+    <string name="menu_saved_articles">सहेजे गए लेख</string>
+    <string name="menu_about_loc_rights">लॉक राइट्स के बारे में</string>
+    <string name="menu_privacy_policy">गोपनीयता नीति</string>
+    <string name="menu_contact_us">संपर्क करें</string>
+    <string name="menu_share_app">ऐप साझा करें</string>
+    <string name="menu_rate_app">ऐप को रेट करें</string>
+    <string name="search_hint">निर्णय, लेख या विषय खोजें…</string>
+    <string name="offline_banner">ऑफ़लाइन मोड — सहेजे गए कैश्ड लेख दिख रहे हैं</string>
+    <string name="empty_bookmarks_title">अभी कोई लेख सहेजा नहीं गया है</string>
+    <string name="empty_bookmarks_body">ऑफ़लाइन पढ़ने के लिए किसी भी लेख पर बुकमार्क आइकन दबाएँ।</string>
+    <string name="empty_search_title">कोई मिलता-जुलता लेख नहीं मिला</string>
+    <string name="empty_search_body">अंग्रेजी या हिंदी में दूसरा शब्द खोजें या श्रेणियाँ देखें।</string>
+    <string name="feed_error_title">ब्लॉग फ़ीड लोड नहीं हो सका</string>
+    <string name="retry">पुनः प्रयास करें</string>
+    <string name="open_website">वेबसाइट खोलें</string>
+    <string name="related_articles">संबंधित लेख</string>
+    <string name="featured_story">प्रमुख लेख</string>
+    <string name="latest_articles">नवीनतम लेख</string>
+    <string name="load_more">और लेख लोड करें</string>
+</resources>
